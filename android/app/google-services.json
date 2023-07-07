@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799438775607",
+    "project_id": "tooth-357b3",
+    "storage_bucket": "tooth-357b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799438775607:android:c2761138196c24d250a6b2",
+        "android_client_info": {
+          "package_name": "com.example.tooth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799438775607-9t8i010iukihfrhi6dv29aqfc0aaibdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tooth",
+            "certificate_hash": "446c0b0e3cdebf23d6e244e0a18c2d18267066ab"
+          }
+        },
+        {
+          "client_id": "799438775607-r29kobpagthnmktgmbgmci417grkil3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5A8ynzCwkpXWJ0EewZF3SKNZiYjawpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799438775607-r29kobpagthnmktgmbgmci417grkil3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
